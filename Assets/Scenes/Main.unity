@@ -817,6 +817,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1586358760, guid: 498d074c6ee2494438712acfc3e5131f, type: 3}
+      propertyPath: stashDelayInSeconds
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1586358760, guid: 498d074c6ee2494438712acfc3e5131f, type: 3}
       propertyPath: bulletPool.container
       value: 
       objectReference: {fileID: 282640047}
